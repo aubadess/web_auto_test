@@ -1,0 +1,99 @@
+{
+  "uid" : "446ab2d89cd2737a",
+  "name" : "修改设备",
+  "fullName" : "test_add_device.Testadddevice#test_update_device",
+  "historyId" : "aa12629477eabd2936bd06d8c138de99",
+  "time" : {
+    "start" : 1688479388532,
+    "stop" : 1688479389244,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Testadddevice",
+    "time" : {
+      "start" : 1688479388532,
+      "stop" : 1688479388532,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Testadddevice::0",
+    "time" : {
+      "start" : 1688479389247,
+      "stop" : 1688479389247,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "设备的增删改查"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testadddevice"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-45TJ9CPM"
+  }, {
+    "name" : "thread",
+    "value" : "23076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_add_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name",
+    "value" : "'upd'"
+  }, {
+    "name" : "rename",
+    "value" : "'update'"
+  }, {
+    "name" : "retype",
+    "value" : "'default'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "446ab2d89cd2737a.json",
+  "parameterValues" : [ "'upd'", "'update'", "'default'" ]
+}

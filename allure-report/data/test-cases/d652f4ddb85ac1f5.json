@@ -1,0 +1,93 @@
+{
+  "uid" : "d652f4ddb85ac1f5",
+  "name" : "删除设备",
+  "fullName" : "test_add_device.Testadddevice#test_delete_device",
+  "historyId" : "01f66055ed147a55655bf9f5335646df",
+  "time" : {
+    "start" : 1688479386801,
+    "stop" : 1688479387537,
+    "duration" : 736
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Testadddevice",
+    "time" : {
+      "start" : 1688479386801,
+      "stop" : 1688479386801,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Testadddevice::0",
+    "time" : {
+      "start" : 1688479387538,
+      "stop" : 1688479387538,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "设备的增删改查"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testadddevice"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-45TJ9CPM"
+  }, {
+    "name" : "thread",
+    "value" : "23076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_add_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "name",
+    "value" : "['yjy4']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d652f4ddb85ac1f5.json",
+  "parameterValues" : [ "['yjy4']" ]
+}

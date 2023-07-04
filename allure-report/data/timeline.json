@@ -1,0 +1,217 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-45TJ9CPM",
+    "children" : [ {
+      "name" : "23076-MainThread",
+      "children" : [ {
+        "name" : "删除设备",
+        "uid" : "d652f4ddb85ac1f5",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479386801,
+          "stop" : 1688479387537,
+          "duration" : 736
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['yjy4']" ]
+      }, {
+        "name" : "新建设备",
+        "uid" : "6c1411fbb3601f2e",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479384418,
+          "stop" : 1688479384727,
+          "duration" : 309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'test2'", "'test _tag'", "'yjy5'" ]
+      }, {
+        "name" : "新建设备",
+        "uid" : "5f8a020e47774d69",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479383479,
+          "stop" : 1688479383782,
+          "duration" : 303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'test2'", "'test _tag'", "'yjy2'" ]
+      }, {
+        "name" : "修改设备",
+        "uid" : "446ab2d89cd2737a",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479388532,
+          "stop" : 1688479389244,
+          "duration" : 712
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'upd'", "'update'", "'default'" ]
+      }, {
+        "name" : "新建设备",
+        "uid" : "eea3990e7cb8d015",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479383786,
+          "stop" : 1688479384091,
+          "duration" : 305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'test2'", "'test _tag'", "'yjy3'" ]
+      }, {
+        "name" : "查询设备",
+        "uid" : "45e542ea2a00e4d3",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479388241,
+          "stop" : 1688479388529,
+          "duration" : 288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['device1']" ]
+      }, {
+        "name" : "删除设备",
+        "uid" : "3f20266f2813a345",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479385433,
+          "stop" : 1688479386114,
+          "duration" : 681
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['yjy2']" ]
+      }, {
+        "name" : "新建设备",
+        "uid" : "b54106da31e35937",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479383133,
+          "stop" : 1688479383475,
+          "duration" : 342
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'test2'", "'test _tag'", "'yjy1'" ]
+      }, {
+        "name" : "删除设备",
+        "uid" : "57038ff683a44c28",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479384732,
+          "stop" : 1688479385430,
+          "duration" : 698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['yjy1']" ]
+      }, {
+        "name" : "新建设备",
+        "uid" : "694fee60ab2cbf3f",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479384095,
+          "stop" : 1688479384413,
+          "duration" : 318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'test2'", "'test _tag'", "'yjy4'" ]
+      }, {
+        "name" : "删除设备",
+        "uid" : "66fe8334b43f7784",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479387541,
+          "stop" : 1688479388238,
+          "duration" : 697
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['yjy5']" ]
+      }, {
+        "name" : "删除设备",
+        "uid" : "81dae819d964cd67",
+        "parentUid" : "746e9721789443077ea89d2dc08467cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688479386118,
+          "stop" : 1688479386798,
+          "duration" : 680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['yjy3']" ]
+      } ],
+      "uid" : "746e9721789443077ea89d2dc08467cb"
+    } ],
+    "uid" : "840f84346cd4abf7bd2b9540a4137858"
+  } ]
+}

@@ -1,0 +1,121 @@
+[ {
+  "uid" : "5f8a020e47774d69",
+  "name" : "新建设备",
+  "time" : {
+    "start" : 1688479383479,
+    "stop" : 1688479383782,
+    "duration" : 303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66fe8334b43f7784",
+  "name" : "删除设备",
+  "time" : {
+    "start" : 1688479387541,
+    "stop" : 1688479388238,
+    "duration" : 697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57038ff683a44c28",
+  "name" : "删除设备",
+  "time" : {
+    "start" : 1688479384732,
+    "stop" : 1688479385430,
+    "duration" : 698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d652f4ddb85ac1f5",
+  "name" : "删除设备",
+  "time" : {
+    "start" : 1688479386801,
+    "stop" : 1688479387537,
+    "duration" : 736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "446ab2d89cd2737a",
+  "name" : "修改设备",
+  "time" : {
+    "start" : 1688479388532,
+    "stop" : 1688479389244,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c1411fbb3601f2e",
+  "name" : "新建设备",
+  "time" : {
+    "start" : 1688479384418,
+    "stop" : 1688479384727,
+    "duration" : 309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45e542ea2a00e4d3",
+  "name" : "查询设备",
+  "time" : {
+    "start" : 1688479388241,
+    "stop" : 1688479388529,
+    "duration" : 288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f20266f2813a345",
+  "name" : "删除设备",
+  "time" : {
+    "start" : 1688479385433,
+    "stop" : 1688479386114,
+    "duration" : 681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b54106da31e35937",
+  "name" : "新建设备",
+  "time" : {
+    "start" : 1688479383133,
+    "stop" : 1688479383475,
+    "duration" : 342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "694fee60ab2cbf3f",
+  "name" : "新建设备",
+  "time" : {
+    "start" : 1688479384095,
+    "stop" : 1688479384413,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81dae819d964cd67",
+  "name" : "删除设备",
+  "time" : {
+    "start" : 1688479386118,
+    "stop" : 1688479386798,
+    "duration" : 680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eea3990e7cb8d015",
+  "name" : "新建设备",
+  "time" : {
+    "start" : 1688479383786,
+    "stop" : 1688479384091,
+    "duration" : 305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
